@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GithubPublisher
-- i am a kid programmer, i am a
+- i am a programmer, i am a
                     1)Arduino
                     2)python
                     3)JavaScript
@@ -11,3 +11,4 @@
                     2) c++ 
                     3) c 
                     for vs studio and unity 
+
